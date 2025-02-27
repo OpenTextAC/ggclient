@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "ggclient"
-  s.version     = '0.1.5'
+  s.version     = '1.1.5'
   s.authors     = ["Subba Rao Pasupuleti"]
   s.email       = ["subbarao.pasupuleti@gxs.com"]
   s.summary     = "Summary of GxsGeminaboxClient."
